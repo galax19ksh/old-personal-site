@@ -227,7 +227,7 @@ collections:
 defaults:
   # _posts
   - scope:
-      path: "/blog"
+      path: ""
       type: posts
     values:
       layout: single
