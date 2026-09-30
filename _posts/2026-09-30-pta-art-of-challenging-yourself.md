@@ -1,7 +1,7 @@
 ---
 title: 'PTA and the Art of Challenging Yourself'
 date: 2026-09-30
-permalink: /posts/pta-art-of-challenging-yourself/
+permalink: /pta-art-of-challenging-yourself/
 tags:
   - cinema
   - paul thomas anderson
